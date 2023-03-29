@@ -54,12 +54,7 @@ This project was created in Visual Studio 2022 Community Edition. To get started
 
 ### Prerequisites
 
-Download or clone the repo in Visual Studio Code or Visual Studio 2022. Install .NET 6
-* Clone the repo
-  ```sh
-  git clone https://github.com/DarkzStorm/WebAPI-Test.git
-  ```
-* Create and connect to the database, you may refer TestDB.sql to create TestDB and the UserInformation table. Change DefaultConnection path in appsettings.json to reflect your database path.
+Download Visual Studio Code or Visual Studio 2022, and install .NET 6. Create and connect to the database, you may refer TestDB.sql to create TestDB and the UserInformation table. Change DefaultConnection path in appsettings.json to reflect your database path.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
